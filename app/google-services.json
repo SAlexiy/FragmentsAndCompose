@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723141875951",
+    "project_id": "testmap-21993",
+    "storage_bucket": "testmap-21993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723141875951:android:0bdd38f1e01fe236a3a31a",
+        "android_client_info": {
+          "package_name": "com.hhanddeploy.fragmentsandcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723141875951-q66t27u54pfekc8cc6o61blv58f1k250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_iohdBfZq_m5eWeJ-BiejML687l9-xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723141875951-q66t27u54pfekc8cc6o61blv58f1k250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
